@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: https://mathinfo.piparadox.live/landing-page-theme/
 title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+email: info@piparadox.live
+author: PiParadox
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  Cheatsheets and Question Papers for PiParadox
+copyright: 'Copyright &copy; 2020 PiParadox. All Rights Reserved.'
+#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,7 +26,9 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+ # - title: github
+ #   url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company/piparadox
+  - title: facebook
+    url: https://m.facebook.com/ThePiParadox/
