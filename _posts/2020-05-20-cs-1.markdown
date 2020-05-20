@@ -5,3 +5,4 @@ title: Trigonometry Cheat Sheet
 description: 
 ---
 <a href="/cheatsheets/Trig_Cheat_Sheet.pdf" download target="_blank">Click here to download</a>
+[Download](/cheatsheets/Trig_Cheat_Sheet.pdf)
