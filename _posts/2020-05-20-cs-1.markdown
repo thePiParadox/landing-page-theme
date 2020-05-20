@@ -4,4 +4,4 @@ category: Services
 title: Trigonometry Cheat Sheet
 description: 
 ---
- [Download here.](/cheatsheets/Trig_Cheat_Sheet.pdf)
+<a href="/cheatsheets/Trig_Cheat_Sheet.pdf" download>Click here to download</a>
