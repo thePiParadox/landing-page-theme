@@ -4,5 +4,6 @@ category: Services
 title: Trigonometry Cheat Sheet
 description: 
 ---
-<a href="/cheatsheets/Trig_Cheat_Sheet.pdf" download target="_blank">Click here to download</a>
-[Download](/cheatsheets/Trig_Cheat_Sheet.pdf)
+<a href="https://github.com/thePiParadox/landing-page-theme/blob/master/cheatsheets/Trig_Cheat_Sheet.pdf" download target="_blank">Click here to download</a>
+
+[Download](https://github.com/thePiParadox/landing-page-theme/blob/master/cheatsheets/Trig_Cheat_Sheet.pdf)
